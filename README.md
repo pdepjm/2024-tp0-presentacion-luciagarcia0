@@ -1,7 +1,6 @@
 # Lucía García #
 ## LEGAJO: 213.731-8 ##
-!![Uploading 2006.jpeg…]()
-
+![2006 (1) (1)](https://github.com/pdepjm/2024-tp0-presentacion-luciagarcia0/assets/164371602/76221fc8-6101-459f-9440-1804d9323932)
 Hola! Soy Lucía, tengo 19 años. Este es mi segundo año en la facultad.
 Me interesa la programación, todavía no sé mucho pero espero aprender este año.
 #### Algunos datos sobre mí: ####

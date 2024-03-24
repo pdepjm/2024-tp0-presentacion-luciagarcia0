@@ -9,3 +9,5 @@
 * Me gusta escuchar música y leer.
 * Soy hincha de Boca. ![boca (1) (1) (1)](https://github.com/pdepjm/2024-tp0-presentacion-luciagarcia0/assets/164371602/0f62dfa3-3750-41d8-a4f9-30e6797813cd)
 * Tengo un gato que se llama **Milo**, tiene 1 año y medio.
+  
+   ![Milo](https://github.com/pdepjm/2024-tp0-presentacion-luciagarcia0/assets/164371602/c010a4ce-e795-4a82-985e-1e78d63220d9)
